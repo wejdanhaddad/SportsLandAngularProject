@@ -116,8 +116,6 @@ Client-side state handling
 
 Clean and scalable project setup
 
-Perfect for frontend portfolios and junior/mid-level Angular roles.
-
  Future Improvements (Optional)
 ✔ Backend API integration
 ✔ User authentication and profiles
