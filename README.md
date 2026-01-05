@@ -3,7 +3,7 @@
 **SportsLand** is a modern **frontend e-commerce web application** built with **Angular**, showcasing sports goods and interactive UI.  
 This project demonstrates professional frontend skills using Angular, reusable components, and responsive UI design.
 
- View the repository: https://github.com/wejdanhaddad/SportsLandAngularProject :contentReference[oaicite:0]{index=0}
+ View the repository: https://github.com/wejdanhaddad/SportsLandAngularProject :
  
 <img width="959" height="448" alt="1" src="https://github.com/user-attachments/assets/46134e0f-7f7e-48a1-bc8a-51ddfe3f06b3" />
 
