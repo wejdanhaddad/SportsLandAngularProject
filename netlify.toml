@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  # Angular outputs to dist/<project-name>, not dist/ directly
+  publish = "dist/angular-project"
+
+# SPA fallback: let the Angular router handle client-side routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
